@@ -15,6 +15,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=41K36U14N&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!---
 41K36U14N/41K36U14N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
