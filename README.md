@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="www.linkedin.com/in/desmadeborah">
+    <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=social&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Buy Me Iced Coffee-brightgreen?style=social&logo=icedcoffee&logoColor=black" alt="Coffee Badge"/>
+  </a>
+  <a href="www.instagram.com/desma.deborah">
+    <img src="https://img.shields.io/badge/Instagram-darkgreen?style=social-badge&logo=Instagram&logoColor=black" alt="Instagram Badge"/>
+  </a>
+</div>
+
 - 👋 Hi, I’m @41K36U14N, but you can call me Desma
 - 👀 I’m interested in most things hehe
 - 🌱 I’m currently learning cyber security, honestly trying to find my path in cyber security, because I am interested in learning so much in this field. 
