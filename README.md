@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/desmadeborah">
+  <p><a href="www.linkedin.com/in/desmadeborah">
     <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=social&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   <a href="www.instagram.com/desma.deborah">
