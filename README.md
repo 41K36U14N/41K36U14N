@@ -19,8 +19,8 @@
 ---
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Cyber Security Projects](https://41k36u14n.github.io/posts/Beginner-Cyber-Security-Projects/)  
-- [Testing testing 123](https://41k36u14n.github.io/posts/test-post/)  
+- [Beginner Cyber Security Projects] (https://41k36u14n.github.io/posts/Beginner-Cyber-Security-Projects/) <br>
+- [Testing testing 123] (https://41k36u14n.github.io/posts/test-post/) <br>
 
 <!-- BLOG-POST-LIST:END -->
 ---
