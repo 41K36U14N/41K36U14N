@@ -19,6 +19,7 @@
 ---
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-13` | [Beginner Cyber Security Projects](https://41k36u14n.github.io/posts/Beginner-Cyber-Security-Projects/)  
 - `2024-03-06` | [Testing testing 123](https://41k36u14n.github.io/posts/test-post/)  
 
 <!-- BLOG-POST-LIST:END -->
