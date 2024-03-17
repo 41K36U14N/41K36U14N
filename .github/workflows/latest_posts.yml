@@ -14,6 +14,6 @@ jobs:
          
          feed_list: "https://41k36u14n.github.io/feed.xml"
          max_post_count: 10
-         template: "- [$title]($url)  $newline"
+         template: "<tr><td>$title</td><td>$url</td></tr>"
          date_format: 
          tag_post_pre_newline: true
