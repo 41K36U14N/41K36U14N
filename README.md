@@ -20,17 +20,7 @@
 
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-
-- Strengthening Cybersecurity by Implementing the NIST Cyber Security Framework</td><td>https://41k36u14n.github.io/posts/implementing-NIST/</td></tr><tr><td>
-    
-- Operating systems</td><td>https://41k36u14n.github.io/posts/Operating-Systems/</td></tr><tr><td>
-
-- NIST &lpar;CSF&rpar;</td><td>https://41k36u14n.github.io/posts/NIST/</td></tr><tr><td>
-
-- Unlocking the Power of the Kernel: Your Guide to Operating System Fitness</td><td>https://41k36u14n.github.io/posts/Kernal/</td></tr><tr><td>
-
-- Driving Your Computer&#39;s Performance: Understanding the Role of Drivers in Gym Terms</td><td>https://41k36u14n.github.io/posts/Drivers/</td></tr>
-
+<tr><td>Strengthening Cybersecurity by Implementing the NIST Cyber Security Framework</td><td>https://41k36u14n.github.io/posts/implementing-NIST/</td></tr><tr><td>Operating systems</td><td>https://41k36u14n.github.io/posts/Operating-Systems/</td></tr><tr><td>NIST &lpar;CSF&rpar;</td><td>https://41k36u14n.github.io/posts/NIST/</td></tr><tr><td>Unlocking the Power of the Kernel: Your Guide to Operating System Fitness</td><td>https://41k36u14n.github.io/posts/Kernal/</td></tr><tr><td>Driving Your Computer&#39;s Performance: Understanding the Role of Drivers in Gym Terms</td><td>https://41k36u14n.github.io/posts/Drivers/</td></tr>
 <!-- BLOG-POST-LIST:END -->
 
 ---
