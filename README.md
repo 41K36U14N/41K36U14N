@@ -17,10 +17,11 @@
 - ⚡ Random fun fact: **Avocados are a fruit, not a vegetable.**
 
 ---
+
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>Beginner Cyber Security Projects</td><td>https://41k36u14n.github.io/posts/Beginner-Cyber-Security-Projects/</td></tr><tr><td>Testing testing 123</td><td>https://41k36u14n.github.io/posts/test-post/</td></tr>
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
 </div> 
