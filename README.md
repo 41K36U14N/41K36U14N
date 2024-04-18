@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=41K36U14N&label=Visitors&color=0e75b6&style=flat" alt="41K36U14N" /> </p>
 
-- 🔭 I’m currently working on **a keylogger project and setting up my blog**
+- 🔭 I’m currently working on **a keylogger project**
 
 - 🌱 I’m currently learning **Cloud computing**
 
-- 👀 I’m interested in **baking, tech and DIY projects**
+- 👀 I’m interested in **baking, gaming, tech and DIY projects**
 
 - 📝 I regularly write articles on [https://41K36U14N.github.io](https://41K36U14N.github.io)
 
@@ -20,7 +20,17 @@
 
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>Strengthening Cybersecurity by Implementing the NIST Cyber Security Framework</td><td>https://41k36u14n.github.io/posts/implementing-NIST/</td></tr><tr><td>Operating systems</td><td>https://41k36u14n.github.io/posts/Operating-Systems/</td></tr><tr><td>NIST &lpar;CSF&rpar;</td><td>https://41k36u14n.github.io/posts/NIST/</td></tr><tr><td>Unlocking the Power of the Kernel: Your Guide to Operating System Fitness</td><td>https://41k36u14n.github.io/posts/Kernal/</td></tr><tr><td>Driving Your Computer&#39;s Performance: Understanding the Role of Drivers in Gym Terms</td><td>https://41k36u14n.github.io/posts/Drivers/</td></tr>
+
+- Strengthening Cybersecurity by Implementing the NIST Cyber Security Framework</td><td>https://41k36u14n.github.io/posts/implementing-NIST/</td></tr><tr><td>
+    
+- Operating systems</td><td>https://41k36u14n.github.io/posts/Operating-Systems/</td></tr><tr><td>
+
+- NIST &lpar;CSF&rpar;</td><td>https://41k36u14n.github.io/posts/NIST/</td></tr><tr><td>
+
+- Unlocking the Power of the Kernel: Your Guide to Operating System Fitness</td><td>https://41k36u14n.github.io/posts/Kernal/</td></tr><tr><td>
+
+- Driving Your Computer&#39;s Performance: Understanding the Role of Drivers in Gym Terms</td><td>https://41k36u14n.github.io/posts/Drivers/</td></tr>
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
