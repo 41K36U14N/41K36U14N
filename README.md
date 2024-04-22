@@ -20,7 +20,7 @@
 
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>Strengthening Cybersecurity by Implementing the NIST Cyber Security Framework</td><td>https://41k36u14n.github.io/posts/implementing-NIST/</td></tr><tr><td>Operating systems</td><td>https://41k36u14n.github.io/posts/Operating-Systems/</td></tr><tr><td>NIST &lpar;CSF&rpar;</td><td>https://41k36u14n.github.io/posts/NIST/</td></tr><tr><td>Unlocking the Power of the Kernel: Your Guide to Operating System Fitness</td><td>https://41k36u14n.github.io/posts/Kernal/</td></tr><tr><td>Driving Your Computer&#39;s Performance: Understanding the Role of Drivers in Gym Terms</td><td>https://41k36u14n.github.io/posts/Drivers/</td></tr>
+<tr><td>What&#39;s memory?</td><td>https://41k36u14n.github.io/posts/What's-memory/</td></tr><tr><td>Virtual Memory and Code Libraries</td><td>https://41k36u14n.github.io/posts/Virtual-Memory-and-Code-Libraries/</td></tr><tr><td>Memory Managment</td><td>https://41k36u14n.github.io/posts/Memory-Managment/</td></tr><tr><td>Processor Locks</td><td>https://41k36u14n.github.io/posts/Processor-Locks/</td></tr><tr><td>Process Managment and Processor types</td><td>https://41k36u14n.github.io/posts/Process-managment/</td></tr>
 <!-- BLOG-POST-LIST:END -->
 
 ---
