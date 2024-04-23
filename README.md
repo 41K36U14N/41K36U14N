@@ -20,7 +20,7 @@
 
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>What&#39;s memory?</td><td>https://41k36u14n.github.io/posts/What's-memory/</td></tr><tr><td>Virtual Memory and Code Libraries</td><td>https://41k36u14n.github.io/posts/Virtual-Memory-and-Code-Libraries/</td></tr><tr><td>Memory Managment</td><td>https://41k36u14n.github.io/posts/Memory-Managment/</td></tr><tr><td>Processor Locks</td><td>https://41k36u14n.github.io/posts/Processor-Locks/</td></tr><tr><td>Process Managment and Processor types</td><td>https://41k36u14n.github.io/posts/Process-managment/</td></tr>
+<tr><td>What&#39;s memory?</td><td>https://41k36u14n.github.io/posts/What's-memory/</td></tr><tr><td>Virtual Memory and Code Libraries</td><td>https://41k36u14n.github.io/posts/Virtual-Memory-and-Code-Libraries/</td></tr><tr><td>Unveiling the World of UTF</td><td>https://41k36u14n.github.io/posts/UTFs/</td></tr><tr><td>Memory Managment</td><td>https://41k36u14n.github.io/posts/Storage/</td></tr><tr><td>Mastering RAID</td><td>https://41k36u14n.github.io/posts/RAID/</td></tr>
 <!-- BLOG-POST-LIST:END -->
 
 ---
