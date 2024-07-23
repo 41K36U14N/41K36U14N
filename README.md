@@ -20,7 +20,7 @@
 
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>Keylogger</td><td>https://41k36u14n.github.io/posts/Keylogger/</td></tr><tr><td>Caeser Cipher</td><td>https://41k36u14n.github.io/posts/Caeser-Cipher/</td></tr><tr><td>What&#39;s memory?</td><td>https://41k36u14n.github.io/posts/What's-memory/</td></tr><tr><td>Virtual Memory and Code Libraries</td><td>https://41k36u14n.github.io/posts/Virtual-Memory-and-Code-Libraries/</td></tr><tr><td>Unveiling the World of UTF</td><td>https://41k36u14n.github.io/posts/UTFs/</td></tr>
+<tr><td>Roles and features of Windows Server</td><td>https://41k36u14n.github.io/posts/roles-and-features-of-WS/</td></tr><tr><td>Types of Windows Operating systems</td><td>https://41k36u14n.github.io/posts/Types-of-WOS/</td></tr><tr><td>Introduction to Microsoft</td><td>https://41k36u14n.github.io/posts/Microsoft-Intro/</td></tr><tr><td>Keylogger</td><td>https://41k36u14n.github.io/posts/Keylogger/</td></tr><tr><td>Caeser Cipher</td><td>https://41k36u14n.github.io/posts/Caeser-Cipher/</td></tr>
 <!-- BLOG-POST-LIST:END -->
 
 ---
