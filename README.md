@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=41K36U14N&label=Visitors&color=0e75b6&style=flat" alt="41K36U14N" /> </p>
 
-- 🔭 I’m currently working on **a keylogger project**
+- 🔭 I’m currently working on **a honeypot project**
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 I’m currently learning **CyberOps**
 
 - 👀 I’m interested in **baking, gaming, tech and DIY projects**
 
