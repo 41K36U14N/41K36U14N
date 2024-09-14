@@ -20,7 +20,7 @@
 
 <h2 align="center">:writing_hand: Blog Posts :</h2>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>Roles and features of Windows Server</td><td>https://41k36u14n.github.io/posts/roles-and-features-of-WS/</td></tr><tr><td>Types of Windows Operating systems</td><td>https://41k36u14n.github.io/posts/Types-of-WOS/</td></tr><tr><td>Introduction to Microsoft</td><td>https://41k36u14n.github.io/posts/Microsoft-Intro/</td></tr><tr><td>Keylogger</td><td>https://41k36u14n.github.io/posts/Keylogger/</td></tr><tr><td>Caeser Cipher</td><td>https://41k36u14n.github.io/posts/Caeser-Cipher/</td></tr>
+<tr><td>Troubleshooting in the Digital Kitchen</td><td>https://41k36u14n.github.io/posts/Troubleshooting/</td></tr><tr><td>GUI</td><td>https://41k36u14n.github.io/posts/GUI/</td></tr><tr><td>Files, folders, directories, and paths</td><td>https://41k36u14n.github.io/posts/Files-folders-directories-paths/</td></tr><tr><td>Error Handling - Toubleshooting</td><td>https://41k36u14n.github.io/posts/Error-Handling-Toubleshooting/</td></tr><tr><td>The Power of Command-Line Interfaces &lpar;CLI&rpar;</td><td>https://41k36u14n.github.io/posts/CLI/</td></tr>
 <!-- BLOG-POST-LIST:END -->
 
 ---
